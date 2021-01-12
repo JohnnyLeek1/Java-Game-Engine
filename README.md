@@ -1,6 +1,6 @@
 # Java Game Engine (Version 1.0)
 
-##### Table of Contents  
+### Table of Contents  
 [What is it?](#what_is_it) 
 
 [Features](#features) 
@@ -11,12 +11,14 @@
 
 
 <a name="what_is_it"/>
+
 ### What is it?
 
 This is my attempt at a *custom* game engine written in Java. It may not serve much practial use, and was written more as a project for me to understand how Game Engines work, and all of the nuances that come with creating a Developer API that would be used by somebody else to create a finished product. This engine is fully featured (or at least it will be upon completion), with many core game engine features such as the creation of windows, rendering logic, customizable game loops, image
 and shape creation, audio playback, and user input (with an easy to use and rebindable control system). This is more of a learning project for me, but I've thoroughly enjoyed the work I've put into it so far, and intend to see how far I can take it.
 
 <a name="features"/>
+
 ### What features are supported and what features are planned?
 
 Currently in this version, the features that are supported are:
@@ -35,6 +37,7 @@ My overall plans for the engine before I consider it a "complete" product are:
   - Collision detection
 
 <a name="installation"/>
+
 ### How do I install it?
 
 I strived to make this engine as simple as possible to set up and get started with! 
@@ -58,6 +61,7 @@ To set this up in an Eclipse project, do the following:
   6. `Apply and Close`
 
 <a name="compile_jar"/>
+
 ### How do I compile the code to use the engine in my projects?
 
 Once the project is cloned, import the project into Eclipse, and do the following:
@@ -68,6 +72,7 @@ Once the project is cloned, import the project into Eclipse, and do the followin
   5. `Finish`
 
 <a name="usage"/>
+
 ### How do I use it?
 
 The first thing you'll want to create is a Window, this can be done using the `Window.CreateWindow()` method.
