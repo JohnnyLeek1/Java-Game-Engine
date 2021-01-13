@@ -9,6 +9,8 @@
 
 [How do I install it?](#installation)
 
+[How do I use it?](#usage)
+
 
 <a name="what_is_it"/>
 
@@ -222,4 +224,4 @@ try {
 }
 ```
 
-There you have it! In ~100 lines of code, you have a basic game working with controls basic controls and game audio!
+There you have it! In ~100 lines of code, you have a simple game working with controls and audio!
