@@ -37,6 +37,7 @@ Currently in this version, the features that are supported are:
 My overall plans for the engine before I consider it a "complete" product are:
   - Basic physics (gravity simulation)
   - Collision detection
+  - Spritesheet animation
 
 <a name="installation"/>
 
